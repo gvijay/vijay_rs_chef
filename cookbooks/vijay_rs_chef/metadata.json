@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "name": "vijay_rs_chef",
+  "maintainer_email": "youremail@example.com",
+  "attributes": {
+  },
+  "license": "Apache v2.0",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Your Name",
+  "long_description": "",
+  "version": "0.0.0",
+  "recommendations": {
+  },
+  "recipes": {
+    "vijay_rs_chef::default": "Prints a message to the output"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "A fabulous new cookbook",
+  "providing": {
+  }
+}
